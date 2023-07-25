@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous"/>
+    <link rel="stylesheet" href="font.css">
+</head>
+<body>
+   <h1>
+    Abhishek's Social Media Handles😎😇...
+
+    
+   </h1>
+   <div class="centerdiv">
+   <a href="https://www.facebook.com/abhigolu.yaduvanshi?mibextid=ZbWKwL" target="_blank">
+    <i class="fa-brands fa-2x fa-facebook fa-beat"></i>
+   </a>
+
+   <a href="https://www.linkedin.com/in/abhishek-yadav-b77824215">
+    <i class="fa-brands fa-2x  fa-linkedin fa-beat"></i>
+   </a>
+
+   <a href="https://twitter.com/Abhishe12436773?t=ONX5eurQwYxh3ycEbcboqA&s=09">
+    <i class="fa-brands fa-2x  fa-twitter fa-beat"></i>
+   </a>
+
+   <a href="https://instagram.com/abhigolu_2741?igshid=MzNlNGNkZWQ4Mg==">
+    <i class="fa-brands fa-2x fa-instagram fa-beat"></i>
+   </a>
+
+
+   </div> 
+   
+</body>
+</html>
